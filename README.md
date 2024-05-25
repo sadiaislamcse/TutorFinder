@@ -1,6 +1,7 @@
 # Online-Tutor-Finder-Project-PHP
 
 ## Tutor Finder
+### By Sadia islam & Suraiya Kawsary (DIU)
 
  **introduction**
  
@@ -38,17 +39,11 @@ Student**
 7)	Register as a Teacher
 
 ** Front End**
-
 -HTML
-
 -CSS
-
 -JavaScript
 
 ** For Back End**
-
 -PHP
-
- **Database**
-
+ ** Database **
 -MYSQL
