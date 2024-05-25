@@ -1,43 +1,8 @@
 # Online-Tutor-Finder-Project-PHP
-The system of private tuition has been in existence in Pakistan for a long time but in recent times it has grown in manifold affecting the core of the educational system. This private tutor system will help to find tuition teachers from nearby locations. Teachers can also get a student just by logging.
-
- **_PHP based final Year Project Gratuation or Intermediate simple Project without BootsStrap with PPT PowerPoint File And also Report Included_**
- 
-Home Page
-
-![Screenshot (88)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/1fdf89b1-339e-4738-a77d-f6e39f3c7547)
-
-
-Login
-
-![Screenshot (87)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/783aa5d7-c79f-4eb7-9891-77408cf49fa8)
-
-Reagistration Page Or Create Acount
-
-![Screenshot (85)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/fb301381-ec17-4d82-85b3-0bef6f832607)
-
-Student make post Page
-
-![Screenshot (89)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/2eb0f094-89b8-448b-94fc-ac6bbe9bd74d)
-
-
-Profile password change and mail
-
-![Screenshot (95)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/8acaaec4-2bb8-43dc-9fa0-d95f54268651)
-
-
 
 ** _Project Titles_**
 
-Student Finder 
-
-Teacher Finder
-
-Student Locator
-
-Teacher Locator
-
-Tutor Locator
+Tutor Finder
 
  **introduction**
  
@@ -123,32 +88,6 @@ Microsoft Windows is a group of several proprietary graphical operating system f
 
 -MYSQL
 
-** Minimum System Requirements**
-
-**Proseser:**  	Intel(R) Pantium or Higher
-
-**RAM:**   		2.00 GB
-
-**Hard disk:**	20 GB
-
-**Operating System**   Minimum Windows 10 0r Higher
-
-
-
-*My Social Accounts For any kind of help in this Project**
-
-
-Twitter
-
-https://twitter.com/naveedkhanworld
-
-GitHub
-
-https://github.com/naveedkhanworld
-
-Facebook
-
-https://facebook.com/naveeedkhanworld
 
 Instagram
 
